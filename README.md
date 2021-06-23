@@ -15,5 +15,6 @@
 
 ![image](https://user-images.githubusercontent.com/64147100/123041659-398de600-d413-11eb-8e09-a1c871e0181d.png)
   
-      
+<h2>Output:</h2>  
 
+![image](https://user-images.githubusercontent.com/64147100/123042374-5bd43380-d414-11eb-9c24-fe0748ab3875.png)
