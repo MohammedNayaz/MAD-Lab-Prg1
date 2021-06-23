@@ -1,6 +1,6 @@
 <h1>" MAD Lab Programs" </h1>
 
-<h2>Visiting Card</h2>
+<h2>Lab1 : Visiting Card</h2>
 <ul>
   
   <li>
